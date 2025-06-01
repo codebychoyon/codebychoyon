@@ -59,18 +59,12 @@
 
 ---
 
-## 🏙️ GitHub Skyline
+## 🎮 Snake Game (Live Contribution Snake!)
 
 <p align="center">
-  <a href="https://skyline.github.com/choyon-ugv" target="_blank">
-    <img src="https://github.com/choyon-ugv.png" width="120" style="border-radius: 50%" />
-  </a>
+  <img src="https://raw.githubusercontent.com/choyon-ugv/choyon-ugv/output/github-contribution-grid-snake.svg" alt="snake gif" />
 </p>
 
-<p align="center">
-  Explore your contributions in a fun 3D city!  
-  👉 <a href="https://skyline.github.com/choyon-ugv">skyline.github.com/choyon-ugv</a>
-</p>
 
 ---
 
