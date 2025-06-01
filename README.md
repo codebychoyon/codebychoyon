@@ -59,14 +59,18 @@
 
 ---
 
-## 🎲 Mini Game Demo
+## 🏙️ GitHub Skyline
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7aD9nd8I8Q5h3CDO/giphy.gif" alt="game demo" />
+  <a href="https://skyline.github.com/choyon-ugv" target="_blank">
+    <img src="https://github.com/choyon-ugv.png" width="120" style="border-radius: 50%" />
+  </a>
 </p>
 
-
-
+<p align="center">
+  Explore your contributions in a fun 3D city!  
+  👉 <a href="https://skyline.github.com/choyon-ugv">skyline.github.com/choyon-ugv</a>
+</p>
 
 ---
 
