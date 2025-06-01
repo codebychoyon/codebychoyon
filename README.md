@@ -59,10 +59,12 @@
 
 ---
 
-## 🎮 Play Snake Game!
+## 🎲 Mini Game Demo
 
-[![Play Snake](https://img.shields.io/badge/Play-Snake-green?style=for-the-badge&logo=snake)](https://choyon-ugv.github.io/snake-game/)
->
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7aD9nd8I8Q5h3CDO/giphy.gif" alt="game demo" />
+</p>
+
 
 
 
