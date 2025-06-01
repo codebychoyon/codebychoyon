@@ -59,10 +59,10 @@
 
 ---
 
-## 🎮 Snake Game (Live Contribution Snake!)
+## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/choyon-ugv/choyon-ugv/output/github-contribution-grid-snake.svg" alt="snake gif" />
+  <img src="https://github-profile-trophy.vercel.app/?username=choyon-ugv&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" />
 </p>
 
 
