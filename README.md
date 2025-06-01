@@ -79,13 +79,26 @@
 ## 🔗 Connect With Me
 
 <p align="center" style="margin-top: 10px;">
-  <a href="https://www.linkedin.com/in/farhanshahriarchoyon/" target="_blank" rel="noopener noreferrer" style="margin: 0 15px;">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="40" />
+  <a href="https://www.linkedin.com/in/farhanshahriarchoyon/" target="_blank" rel="noopener noreferrer" style="margin: 0 20px;">
+    <img 
+      src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" 
+      alt="LinkedIn" 
+      width="40" 
+      height="40" 
+      style="border-radius: 8px;" 
+    />
   </a>
-  <a href="mailto:choyon.ugv@gmail.com" style="margin: 0 15px;">
-    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" height="40" />
+  <a href="mailto:farhanshahriarchoyon@gmail.com" style="margin: 0 20px;">
+    <img 
+      src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.svg" 
+      alt="Gmail" 
+      width="40" 
+      height="40" 
+      style="border-radius: 8px;"
+    />
   </a>
 </p>
+
 
 
 
