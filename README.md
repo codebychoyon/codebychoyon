@@ -59,18 +59,12 @@
 
 ---
 
-## 🏙️ GitHub Skyline (3D Contribution City)
+## 🏆 GitHub Trophies
 
 <p align="center">
-  <a href="https://skyline.github.com/choyon-ugv">
-    <img src="https://github.com/choyon-ugv.png" width="120" style="border-radius: 50%" />
-  </a>
+  <img src="https://github-profile-trophy.vercel.app/?username=choyon-ugv&theme=tokyonight&no-bg=true&no-frame=true" />
 </p>
 
-<p align="center">
-  View your 3D GitHub skyline:  
-  👉 <a href="https://skyline.github.com/choyon-ugv">https://skyline.github.com/choyon-ugv</a>
-</p>
 
 
 ---
