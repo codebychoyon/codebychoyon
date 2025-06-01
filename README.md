@@ -59,11 +59,10 @@
 
 ---
 
-## 🏆 GitHub Trophies
+## 🎮 Play Snake Game!
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=choyon-ugv&theme=tokyonight&no-bg=true&no-frame=true" />
-</p>
+[![Play Snake](https://img.shields.io/badge/Play-Snake-green?style=for-the-badge&logo=snake)](https://choyon-ugv.github.io/snake-game/)
+>
 
 
 
