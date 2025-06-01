@@ -26,7 +26,7 @@
 ## 🛠️ Languages & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,django,react,js,html,css,figma,illustrator,vscode,git,github,postman,javascripts" />
+  <img src="https://skillicons.dev/icons?i=python,django,react,html,css,js,figma,illustrator,vscode,git,github,postman" />
 </p>
 
 ---
