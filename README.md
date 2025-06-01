@@ -83,12 +83,6 @@
   <a href="mailto:choyon.ugv@gmail.com"><img src="https://img.shields.io/badge/-Gmail-red?style=for-the-badge&logo=gmail" /></a>
 </p>
 
-make more beautiful
-
-
-
-
-
 ---
 
 <p align="center">
