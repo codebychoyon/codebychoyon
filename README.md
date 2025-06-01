@@ -34,9 +34,10 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=choyon-ugv&show_icons=true&theme=tokyonight" alt="choyon-ugv" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=choyon-ugv&theme=tokyonight" alt="streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=choyon-ugv&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&hide_border=true" alt="choyon-ugv Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=choyon-ugv&theme=tokyonight&hide_border=true" alt="choyon-ugv Streak" />
 </p>
+
 
 ---
 
