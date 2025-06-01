@@ -78,10 +78,27 @@
 
 ## 🔗 Connect With Me
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/farhanshahriarchoyon/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
-  <a href="mailto:farhanshahriarchoyon@gmail.com"><img src="https://img.shields.io/badge/-Gmail-red?style=for-the-badge&logo=gmail" /></a>
+<p align="center" style="margin-top: 10px;">
+  <a href="https://www.linkedin.com/in/farhanshahriarchoyon/" target="_blank" rel="noopener noreferrer" style="margin: 0 10px; text-decoration: none;">
+    <img 
+      src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" 
+      alt="LinkedIn" 
+      height="40"
+      onmouseover="this.style.filter='brightness(85%)'"
+      onmouseout="this.style.filter='brightness(100%)'"
+    />
+  </a>
+  <a href="mailto:farhanshahriarchoyon@gmail.com" style="margin: 0 10px; text-decoration: none;">
+    <img 
+      src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" 
+      alt="Gmail" 
+      height="40"
+      onmouseover="this.style.filter='brightness(85%)'"
+      onmouseout="this.style.filter='brightness(100%)'"
+    />
+  </a>
 </p>
+
 
 ---
 
