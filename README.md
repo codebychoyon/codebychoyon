@@ -43,8 +43,9 @@
 ## 📈 GitHub Activity Graph
 
 <p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=choyon-ugv&theme=react-dark&area=true&hide_border=true" alt="GitHub Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=choyon-ugv&theme=react-dark&area=true&hide_border=true" alt="GitHub Activity Graph" />
 </p>
+
 
 
 ---
