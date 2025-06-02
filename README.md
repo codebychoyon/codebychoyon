@@ -59,12 +59,8 @@
 ---
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=your-username&theme=tokyonight&margin-w=10&margin-h=10&row=1&column=7" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=choyon-ugv&theme=tokyonight&margin-w=10&margin-h=10&row=1&column=7" alt="Choyon's GitHub Trophies" />
 </p>
-
-
----
-
 
 ---
 
