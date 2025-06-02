@@ -41,6 +41,7 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=choyon-ugv&theme=react-dark&area=true&hide_border=true" alt="GitHub Activity Graph" />
 </p>
 
+---
 
 
 ---
@@ -56,17 +57,13 @@
 </p>
 
 ---
-<picture>
-  <!-- Dark mode SVG -->
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/choyon-ugv/choyon-ugv/output/pacman-contribution-graph-dark.svg">
-  
-  <!-- Light mode SVG -->
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/choyon-ugv/choyon-ugv/output/pacman-contribution-graph.svg">
-  
-  <!-- Fallback image -->
-  <img alt="Choyon's Pacman-themed GitHub contribution graph" src="https://raw.githubusercontent.com/choyon-ugv/choyon-ugv/output/pacman-contribution-graph.svg">
-</picture>
 
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=your-username&theme=tokyonight&margin-w=10&margin-h=10&row=1&column=7" alt="GitHub Trophies" />
+</p>
+
+
+---
 
 
 ---
