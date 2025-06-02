@@ -57,10 +57,16 @@
 
 ---
 <picture>
+  <!-- Dark mode SVG -->
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/choyon-ugv/choyon-ugv/output/pacman-contribution-graph-dark.svg">
+  
+  <!-- Light mode SVG -->
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/choyon-ugv/choyon-ugv/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/choyon-ugv/choyon-ugv/output/pacman-contribution-graph.svg">
+  
+  <!-- Fallback image -->
+  <img alt="Choyon's Pacman-themed GitHub contribution graph" src="https://raw.githubusercontent.com/choyon-ugv/choyon-ugv/output/pacman-contribution-graph.svg">
 </picture>
+
 
 ---
 
