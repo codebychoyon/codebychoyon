@@ -34,15 +34,11 @@
   <img src="https://github-readme-streak-stats.herokuapp.com?user=choyon-ugv&theme=tokyonight&hide_border=true" alt="choyon-ugv Streak" />
 </p>
 
-
 ---
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=choyon-ugv&theme=react-dark&area=true&hide_border=true" alt="GitHub Activity Graph" />
 </p>
-
----
-
 
 ---
 
