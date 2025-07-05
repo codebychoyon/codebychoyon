@@ -15,7 +15,7 @@
 
 ## 🧠 About Me
 
-- 🔭 I’m currently working on **Small Talk - A Mobile App**
+- 🔭 I’m currently working on **Let's Trip - A Mobile App**
 - 🌱 I’m learning **React & Firebase Integration**
 - 💬 Ask me about **Django, DRF, Authentication, Stripe, Firebase**
 - ⚡ Fun fact: I love gaming, watching movies, traveling, and farming because they fuel my creativity, adventure, and connection with nature.
