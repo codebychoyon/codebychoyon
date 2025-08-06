@@ -37,7 +37,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=codebychoyon&theme=tokyonight&hide_border=true" alt="codebychoyon Streak" />
+  <img src="https://streak-stats.demolab.com/?user=codebychoyon&theme=tokyonight&hide_border=true" alt="codebychoyon Streak" />
 </p>
 
 ---
