@@ -28,8 +28,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=codebychoyon&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&hide_border=true" alt="codebychoyon Stats" />
 </p>
@@ -39,8 +37,6 @@
 </p>
 
 ---
-
-## 🌱 Activity Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=codebychoyon&theme=react-dark&area=true&hide_border=true" alt="GitHub Activity Graph" />
