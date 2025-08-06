@@ -44,15 +44,11 @@
 
 ---
 
-## 🧑‍💻 Top Languages
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codebychoyon&layout=compact&theme=tokyonight" />
 </p>
 
 ---
-
-## 💡 Dev Quote
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
@@ -60,15 +56,11 @@
 
 ---
 
-## 🏆 GitHub Trophies
-
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=codebychoyon&theme=tokyonight&margin-w=10&margin-h=10&row=1&column=7" alt="Choyon's GitHub Trophies" />
 </p>
 
 ---
-
-## 📫 Connect With Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/farhanshahriarchoyon/" target="_blank">
@@ -80,8 +72,6 @@
 </p>
 
 ---
-
-## 👀 Profile Views
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=codebychoyon&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
