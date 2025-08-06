@@ -1,7 +1,7 @@
 <!-- README.md for choyon-ugv -->
 <div align="center">
 <!--   <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  /> -->
-  <img src="https://raw.githubusercontent.com/choyon-ugv/choyon-ugv/refs/heads/master/full-stack-development.gif"  />
+  <img src="https://raw.githubusercontent.com/codebychoyon/codebychoyon/refs/heads/master/full-stack-development.gif"  />
 </div>
 
 <h1 align="center">Hi 👋, I'm Farhan Shahriar Choyon</h1>
@@ -30,20 +30,20 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=choyon-ugv&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&hide_border=true" alt="choyon-ugv Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=choyon-ugv&theme=tokyonight&hide_border=true" alt="choyon-ugv Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=codebychoyon&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&hide_border=true" alt="choyon-ugv Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=codebychoyon&theme=tokyonight&hide_border=true" alt="choyon-ugv Streak" />
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=choyon-ugv&theme=react-dark&area=true&hide_border=true" alt="GitHub Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=codebychoyon&theme=react-dark&area=true&hide_border=true" alt="GitHub Activity Graph" />
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=choyon-ugv&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codebychoyon&layout=compact&theme=tokyonight" />
 </p>
 
 ---
@@ -55,7 +55,7 @@
 ---
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=choyon-ugv&theme=tokyonight&margin-w=10&margin-h=10&row=1&column=7" alt="Choyon's GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=codebychoyon&theme=tokyonight&margin-w=10&margin-h=10&row=1&column=7" alt="Choyon's GitHub Trophies" />
 </p>
 
 ---
@@ -68,5 +68,5 @@
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=choyon-ugv&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=codebychoyon&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
