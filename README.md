@@ -14,7 +14,7 @@
 
 ## 🧠 About Me
 
-- 🔭 I’m currently working on **Let's Trip - A Mobile App**
+- 🔭 I’m currently working on **Beauty Services - A Mobile App**
 - 🌱 I’m learning **Django, DRF, React, MySQL**
 - 💬 Ask me about **Django, DRF, Authentication, Stripe, Firebase**
 - ⚡ Fun fact: I love gaming, watching movies, traveling, and farming — they fuel my creativity and love for adventure
