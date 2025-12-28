@@ -21,15 +21,11 @@
 
 ---
 
-## 🛠️ Tech Stack
-
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,django,react,html,css,js,figma,illustrator,vscode,git,github,postman" alt="Tech Stack" />
 </p>
 
 ---
-
-## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=codebychoyon&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&hide_border=true&cache_seconds=1800" alt="Choyon's GitHub Stats" />
@@ -41,15 +37,11 @@
 
 ---
 
-## 📈 Activity Graph
-
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=codebychoyon&theme=react-dark&area=true&hide_border=true" alt="Choyon's Activity Graph" />
 </p>
 
 ---
-
-## 💻 Most Used Languages
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codebychoyon&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="Top Languages" />
@@ -57,23 +49,17 @@
 
 ---
 
-## 💭 Random Dev Quote
-
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random Dev Quote" />
 </p>
 
 ---
 
-## 🏆 GitHub Trophies
-
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=codebychoyon&theme=tokyonight&margin-w=10&margin-h=10&row=1&column=7&no-frame=true" alt="Choyon's GitHub Trophies" />
 </p>
 
 ---
-
-## 🤝 Connect with Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/farhanshahriarchoyon/" target="_blank">
