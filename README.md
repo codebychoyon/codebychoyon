@@ -27,13 +27,9 @@
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=codebychoyon&theme=tokyonight&hide_border=true" />
-</p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=codebychoyon&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&hide_border=true&cache_seconds=1800" alt="Choyon's GitHub Stats" /> </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=codebychoyon&theme=tokyonight&hide_border=true" alt="Choyon's GitHub Streak" />
-</p>
+<p align="center"> <img src="https://streak-stats.demolab.com/?user=codebychoyon&theme=tokyonight&hide_border=true" alt="Choyon's GitHub Streak" /> </p>
 
 ---
 
