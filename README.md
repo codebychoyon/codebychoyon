@@ -9,6 +9,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&center=true&vCenter=true&width=600&lines=Backend+Developer+%7C+Django+%7C+DRF;Full-Stack+Learner+%7C+Django+%7C+React;Love+Coding+%26+Problem+Solving;Traveling+%7C+Gaming+%7C+Movies+%7C+Farming" alt="Typing SVG" />
 </p>
 
+
 ---
 
 ## 🧠 About Me
